@@ -1,0 +1,8 @@
+ES. 1:
+Creare un Computer con Dependency Injection e 
+Object Composition, composto da: 
+
+-RAM
+-ROM
+-Scheda Video
+-Altro

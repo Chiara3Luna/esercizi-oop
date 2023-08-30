@@ -1,0 +1,14 @@
+ES. 2:
+Siamo in guerra!
+Creare una classe Esercito, 
+che sarà costituita da una Difesa e da un Attacco.
+Entrambe le classi si estenderanno 
+a loro volta e avranno i rispettivi metodi: 
+date sfoggio alla vostra fantasia!
+
+Esempio: 
+ATTACCO: Fanteria, cavalleria, arcieri, catapulte
+DIFESA: Fossato, fortezza, mura di cinta ecc..
+Creare quindi degli oggetti di classe esercito 
+che possano attaccare o difendere utilizzando 
+i metodi delle diverse classi create
